@@ -35,6 +35,7 @@ This project was born from a real need: **to help my uncle**, who is colorblind.
 - **Respectful (Non-destructive):** It doesn't touch your materials, textures, or nodes. It only affects the Viewport display.
 - **Multilingual:** Automatically supports English (US/UK) and Spanish.
 - **Full Support:** Modes for Deuteranopia, Protanopia, Tritanopia, and Achromatopsia.
+![howtouse](https://github.com/user-attachments/assets/3e530c41-a0ac-4f66-8a45-e134b044078e)
 
 ---
 
@@ -51,6 +52,7 @@ This project was born from a real need: **to help my uncle**, who is colorblind.
    - Click `Install...` and select the downloaded file.
    - Enable the **Dalton-Contrast V10**.
 3. **Usage:** Open the 3D Viewport sidebar (press **N**) and look for the **Accessibility** tab.
+![install](https://github.com/user-attachments/assets/85f75e46-cac0-45e2-97b5-8205b30ebd87)
 
 ---
 
