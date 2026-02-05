@@ -46,6 +46,12 @@ This project was born from a real need: **to help my uncle**, who is colorblind.
    - Activa el checkbox de **Dalton-Contrast V10**.
 3. **Uso:** Abre el panel lateral de la Vista 3D (tecla **N**) y busca la pestaña **Accesibilidad**.
 
+1. **Download:** Get the `dalton_contrast.py` file from this repository.
+2. **Install in Blender:** - Go to `Edit > Preferences > Add-ons`.
+   - Click `Install...` and select the downloaded file.
+   - Enable the **Dalton-Contrast V10**.
+3. **Usage:** Open the 3D Viewport sidebar (press **N**) and look for the **Accessibility** tab.
+
 ---
 
 ## 🛠️ Ayuda y Soporte / Help & Support
