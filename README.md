@@ -36,7 +36,7 @@ This project was born from a real need: **to help my uncle**, who is colorblind.
 - **Multilingual:** Automatically supports English (US/UK) and Spanish.
 - **Full Support:** Modes for Deuteranopia, Protanopia, Tritanopia, and Achromatopsia.
 
-![howtouse](https://github.com/user-attachments/assets/e20d5bc8-0834-42f0-b3d5-775920b9b170)
+![howtouse](https://github.com/user-attachments/assets/5c0718cd-0cbb-4b6d-92b0-23fc0b8be185)
 
 ---
 
